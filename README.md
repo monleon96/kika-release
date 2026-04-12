@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/monleon96/kika-release?label=KIKA%20App&color=blue" alt="App Version"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/juanmonleon/kika-release?label=KIKA%20App&color=blue" alt="App Version"></a>
   <a href="https://pypi.org/project/kika-nd/"><img src="https://img.shields.io/pypi/v/kika-nd?label=kika-nd&color=blue" alt="PyPI Version"></a>
   <img src="https://img.shields.io/badge/status-beta-orange" alt="Beta">
 </p>
@@ -104,7 +104,7 @@ KIKA checks for updates automatically on launch. When a new version is available
 
 ## Built on the kika Python Library
 
-This desktop app is built on top of [**kika**](https://github.com/monleon96/kika), an open-source Python toolkit for nuclear data analysis, Monte Carlo simulation support, and uncertainty quantification. Almost everything available in the app can also be accessed programmatically through the library.
+This desktop app is built on top of [**kika**](https://github.com/juanmonleon/kika), an open-source Python toolkit for nuclear data analysis, Monte Carlo simulation support, and uncertainty quantification. Almost everything available in the app can also be accessed programmatically through the library.
 
 If you'd like to contribute, head over to the Python library repo. You can install it with:
 
@@ -115,7 +115,7 @@ pip install kika-nd
 Or by cloning the repository:
 
 ```bash
-git clone https://github.com/monleon96/kika.git
+git clone https://github.com/juanmonleon/kika.git
 cd kika
 pip install -e .
 ```
@@ -124,5 +124,5 @@ pip install -e .
 
 ## Links
 
-- [kika Python library](https://github.com/monleon96/kika)
+- [kika Python library](https://github.com/juanmonleon/kika)
 - [Report an issue](../../issues)
