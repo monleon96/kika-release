@@ -12,9 +12,15 @@
   An all-in-one desktop toolkit for nuclear engineers. Explore and visualize nuclear data, build simulation inputs, and run sensitivity and uncertainty analyses.
 </p>
 
+<p align="center">
+  <strong><a href="https://kika-app.com/">Website</a></strong> ·
+  <strong><a href="https://kika-app.com/docs">Documentation</a></strong> ·
+  <strong><a href="../../releases/latest">Latest release</a></strong>
+</p>
+
 ## Download
 
-Go to the [Releases](../../releases/latest) page and download the installer for your platform:
+The easiest option is [**kika-app.com**](https://kika-app.com/#downloads), which detects your platform and links directly to the latest installer. You can also download every published build from the [Releases](../../releases/latest) page.
 
 | Platform | File | Notes |
 |----------|------|-------|
@@ -124,5 +130,7 @@ pip install -e .
 
 ## Links
 
+- [KIKA website](https://kika-app.com/)
+- [Application documentation](https://kika-app.com/docs)
 - [kika Python library](https://github.com/juanmonleon/kika)
 - [Report an issue](../../issues)
